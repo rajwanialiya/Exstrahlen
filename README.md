@@ -22,7 +22,7 @@ Whenever you assume you can do something in x hours, realize that it will probab
 Right now we just return a confidence score, but we'd like to expand the model / UI to utilize bounding boxes so that radiologists can look at the scan and really understand what the model is seeing so that they can be more confident in it.
 
 
-By Shivam Pandey, Aliya Rajwani, Hrithvik Alex, Rikin Patel
+By Aliya Rajwani, Shivam Pandey, Hrithvik Alex, Rikin Patel
 
 ## Project setup
 ```
